@@ -1,14 +1,8 @@
 # Change Log
 
+## some changes
 
 ## [1.6.1] - 2023-08-21
-
-### Fixed
-
-- Update the minimum required version of `requests` ([#8336](https://github.com/python-poetry/poetry/pull/8336)).
-
-
-## [1.6.0] - 2023-08-20
 
 ### Added
 
